@@ -94,6 +94,8 @@ mvn exec:java
 
 **Test Class**: `TestGestionStock.java`
 
+<img width="1440" height="865" alt="exercice 1" src="https://github.com/user-attachments/assets/d23f675b-4f1a-4793-afd7-2e31614417cb" />
+
 ---
 
 ## 🏗️ Exercice 2: Gestion de Projets
@@ -154,6 +156,8 @@ mvn exec:java
 
 **Test Class**: `TestApplication.java`
 
+<img width="1440" height="860" alt="exercice2" src="https://github.com/user-attachments/assets/34dacfb6-7e0b-456a-9723-e2676ba89ed6" />
+
 ---
 
 ## 👥 Exercice 3: Gestion de l'État Civil
@@ -209,6 +213,8 @@ mvn exec:java -Dexec.mainClass="ma.projet.main.TestProgram"
 ```
 
 **Test Class**: `TestProgram.java`
+
+<img width="1439" height="862" alt="exercice3" src="https://github.com/user-attachments/assets/7a33bc87-b9e9-44d9-b816-8706f1630a90" />
 
 ---
 
